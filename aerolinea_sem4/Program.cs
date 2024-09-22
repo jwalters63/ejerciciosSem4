@@ -49,7 +49,7 @@ class Program
                 if (asiento != 0)
                 {
                     fumadores++;
-                    nombres[asiento - 1] = nombre; // Use the seat number - 1 to index the nombres array
+                    nombres[asiento - 1] = nombre; // Utilizar el número de asiento - 1 para indexar el arreglo de nombres
                 }
                 else
                 {
@@ -65,7 +65,7 @@ class Program
                 if (asiento != 0)
                 {
                     noFumadores++;
-                    nombres[asiento - 1] = nombre; // Use the seat number - 1 to index the nombres array
+                    nombres[asiento - 1] = nombre; // Utilizar el número de asiento - 1 para indexar el arreglo de nombres
                 }
                 else
                 {
@@ -104,7 +104,7 @@ class Program
             if (!asientos[i])
             {
                 asientos[i] = true;
-                return i + 1; // Return the seat number (1-based)
+                return i + 1; // Devolver el número de asiento (basado en 1)
             }
         }
         return 0; // No hay espacio disponible
