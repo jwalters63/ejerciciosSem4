@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\ejerciciosSem4\\comisionVendedor_sem4\\comisionVendedor_sem4.csproj",
-      "projectName": "comisionVendedor_sem4",
-      "projectPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\ejerciciosSem4\\comisionVendedor_sem4\\comisionVendedor_sem4.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\ejerciciosSem4\\ejercicio4_sem4\\ejercicio4_sem4\\ejercicio4_sem4\\ejercicio4_sem4.csproj",
+      "projectName": "ejercicio4_sem4",
+      "projectPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\ejerciciosSem4\\ejercicio4_sem4\\ejercicio4_sem4\\ejercicio4_sem4\\ejercicio4_sem4.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\ejerciciosSem4\\comisionVendedor_sem4\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\guam\\codes\\C#\\ejerciciosSem4\\ejercicio4_sem4\\ejercicio4_sem4\\ejercicio4_sem4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
